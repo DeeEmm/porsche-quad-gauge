@@ -1,7 +1,14 @@
 ![Gauge](Photos/19.jpg)
 
 # QUAD GAUGE FOR A PORSCHE 914
-More info [here](https://evanli.com/quad-gauge-for-a-porsche-914/).
+
+This is a fork of Evan Li's Porsche Quad Gauge project - https://github.com/Evancli/porsche-quad-gauge
+
+I'm planning on building this for my own 914 but I want to make some small tweaks to the appearance, hence the reason for the fork.
+
+More info on Evans original project can be found on his website -  [here](https://evanli.com/quad-gauge-for-a-porsche-914/).
+
+Great work Evan !!!
 
 ## Required Items
 This gauge uses salvaged components from a Porsche 944 fuel gauge; the bezel, glass, and face plate. You can used the vintage gauges from the 944 or the corresponding gauges from your 914. It also required two new VDO gauges for voltage and oil pressure.
