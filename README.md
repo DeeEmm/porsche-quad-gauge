@@ -19,6 +19,12 @@ It's quite laborious to open these VDO gauges, even with the right tools. A pryi
 ## Processes
 The build uses 3D printed parts as well a laser cut and etched parts. 
 
+I have ported the PCB Design to EasyEDA. You can vew the design at - https://oshwlab.com/deeemm/914-quad-gauge-eagle
+Or access it directly in the Editor - https://pro.easyeda.com/editor#id=dfc4f779fbf24a139208af90bd0d9e6b
+
+The design is set up for automated pick and place assembly. I've ordered 5 boards as this is the minimum order quantity. If you are interested in purchasing a board from me, drop me a DM
+
+
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
