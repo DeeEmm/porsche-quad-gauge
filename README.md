@@ -19,10 +19,26 @@ It's quite laborious to open these VDO gauges, even with the right tools. A pryi
 ## Processes
 The build uses 3D printed parts as well a laser cut and etched parts. 
 
+# Current Status
+
 I have ported the PCB Design to EasyEDA. You can vew the design at - https://oshwlab.com/deeemm/914-quad-gauge-eagle
 Or access it directly in the Editor - https://pro.easyeda.com/editor#id=dfc4f779fbf24a139208af90bd0d9e6b
 
-The design is set up for automated pick and place assembly. I've ordered 5 boards as this is the minimum order quantity. If you are interested in purchasing a board from me, drop me a DM
+The design is set up for automated pick and place assembly. I've ordered and received 5 assembled boards (this is the minimum order quantity via JLCPCB) 
+
+![Gauge](Photos/21.jpg)
+
+![Gauge](Photos/22.jpg)
+
+I also found a suitable 924 combo gauge to use as the base for the conversion, wjhoch I will use along with the 911 oil pressure guage I already had.
+
+![Gauge](Photos/23.jpg)
+
+![Gauge](Photos/24.jpg)
+
+Next job is to 3D print the gauge body and PCB mounting bracket and then populate the PCB with the gauges and male crimp terminals, Hopefully then I will be ready to test.
+
+NOTE: If you are interested in purchasing a board from me, drop me a DM
 
 
 ## License
