@@ -1,6 +1,6 @@
 ![Gauge](Photos/19.jpg)
 
-# QUAD GAUGE FOR A PORSCHE 914
+# QUAD GAUGE FOR A PORSCHE 914 / 906 / 906
 
 This is a fork of Evan Li's Porsche Quad Gauge project - https://github.com/Evancli/porsche-quad-gauge
 
