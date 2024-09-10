@@ -36,9 +36,13 @@ I also found a suitable 924 combo gauge to use as the base for the conversion, t
 
 ![Gauge](Photos/24.jpg)
 
-Next job is to 3D print the gauge body and PCB mounting bracket and then populate the PCB with the gauges and male crimp terminals, Hopefully then I will be ready to test.
+I also purchased a generic VDO voltage gauge for the 4th position. (Part # 332.030.001C) This looks like it should be the correct style of guage,  but I will not know for sure until I dismantle it.
 
-NOTE: If you are interested in purchasing a board from me, drop me a DM
+Next job is to fix my Carvey CNC so that I can make the gauge face, then 3D print the gauge body and PCB mounting bracket and then finally populate the PCB with the gauges and male crimp terminals, Hopefully then I will be ready to test.
+
+NOTE: If you are interested in purchasing a board from me, drop me a DM. I won't ship until I've proven that the one I'm building works and I've finalised my code changes. This might be a while, but... 'first in best dressed' as the say round these parts.
+
+I will supply the PCB pre-loaded, so no need to own a programming device to flash the code. Happy to discuss providing a machined gauge face and case, although you might want to see what mine turn out like first lol.
 
 
 ## License
