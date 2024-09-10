@@ -30,7 +30,7 @@ The design is set up for automated pick and place assembly. I've ordered and rec
 
 ![Gauge](Photos/22.jpg)
 
-I also found a suitable 924 combo gauge to use as the base for the conversion, wjhoch I will use along with the 911 oil pressure guage I already had.
+I also found a suitable 924 combo gauge to use as the base for the conversion, that I will use along with the 911 oil pressure guage I already had.
 
 ![Gauge](Photos/23.jpg)
 
